@@ -61,6 +61,11 @@ body {
   color: hsl(0, 0%, 7%);
 }
 
+.card__content--title:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
 .card__content--description {
   display: inherit;
   font-size: 1rem;
